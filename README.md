@@ -89,11 +89,6 @@ Transcript Extraction, Summarization & Intelligent Q&A
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Virtueadii12&theme=tokyonight)
 
 ---
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Virtueadii12&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 🌐 Connect With Me
